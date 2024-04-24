@@ -1,5 +1,7 @@
 <h1 align="center">💻Albert Thomas</h1>
-
+<h1 align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"/>
+</h1>
 <h2>About Me:</h2>
   <ul>
     <li> 💻 I’m interested in programming, web development and web design, gaming development</li>
@@ -8,7 +10,9 @@
   </ul>
 
 <h3 align="center">I am a Passionate Software Developer from Jamaica</h3>
-
+<a href="https://www.linkedin.com/in/albert-thomas-b6231a2a7">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge"/>
+    </a>
 <a href="https://www.hackerrank.com/thomasajay17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thomasajay17" height="30" width="40" /></a>
 </p>
 
